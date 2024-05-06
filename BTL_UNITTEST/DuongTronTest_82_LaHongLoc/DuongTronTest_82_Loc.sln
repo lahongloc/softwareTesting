@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuongTronTest_82_Loc", "DuongTronTest_82_Loc.csproj", "{C101359E-E25E-4CF4-A503-71F079BCEAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiemTraViTri_UnitTest_82_Loc", "..\KiemTraViTri_UnitTest_82_LaHongLoc\KiemTraViTri_UnitTest_82_Loc.csproj", "{3D066C93-A688-4BEC-B8BE-AAE702C59886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C101359E-E25E-4CF4-A503-71F079BCEAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C101359E-E25E-4CF4-A503-71F079BCEAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C101359E-E25E-4CF4-A503-71F079BCEAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C101359E-E25E-4CF4-A503-71F079BCEAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D066C93-A688-4BEC-B8BE-AAE702C59886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D066C93-A688-4BEC-B8BE-AAE702C59886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D066C93-A688-4BEC-B8BE-AAE702C59886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D066C93-A688-4BEC-B8BE-AAE702C59886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007BE922-3519-4904-9A5C-6D36E80A314C}
+	EndGlobalSection
+EndGlobal
